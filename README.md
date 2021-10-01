@@ -7,4 +7,5 @@ Reference
 > ~ linus Torvalds
 
 Honestly, this repository aims to enliven the hacktoberfest event
-Happy Coding fellow 
+
+Happy Coding :fire:
